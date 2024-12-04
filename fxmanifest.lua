@@ -20,7 +20,3 @@ dependencies {
 
 -- Additional Metadata ( you dont need to change )
 lua54 'yes'
-
-escrow_ignore {
-    'config.lua',
-  }
