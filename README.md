@@ -114,5 +114,5 @@ Config.DatabaseResource = "oxmysql"  -- Set to "oxmysql" or "mysql-async" (Choos
 ## License
 This script is **free** to use. However, you are not allowed to redistribute it for profit or without proper attribution.
 
-## Support
-For any issues or questions, feel free to raise an issue in the GitHub repository.
+## This is my first script!!
+Hey this is my first script im actually posting on github, pls be nice :)
