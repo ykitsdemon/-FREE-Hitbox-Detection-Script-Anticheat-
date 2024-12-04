@@ -1,2 +1,1 @@
-# -FREE-Hitbox-Detection-Script-Anticheat-
-[FREE] Hitbox Detection Script ( Anticheat )
+# Rico's [FREE] Hitbox Detection Script ( Anticheat ) 
