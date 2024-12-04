@@ -1,5 +1,7 @@
 # [FREE] Hitbox Detection Script (AntiCheat)
 
+IF you would like to support this ongoing project, You can donate to me here! (Cashapp: mt3kks) <3
+
 ## Description
 This is a **hitbox detection** script designed for **FiveM**. It helps identify and flag players that are suspected of manipulating their hitboxes to gain an unfair advantage in the game. This script will detect suspicious hitbox activity based on thresholds for hit frequency and accuracy, and then take actions such as **kicking** or **banning** the flagged players. The script also sends logs to a **Discord webhook** for your admins to monitor the detected activity.
 
